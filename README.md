@@ -1,4 +1,4 @@
-### JavaScript Info
+### JavaScript | Dasturlash olamiga xush kelsibsiz
 
 ```JavaScript
     console.log('Rivojlanishni hozirdan boshlang!')
